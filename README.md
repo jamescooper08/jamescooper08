@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm James, a computer science student from the University of Birmingham.
+
+I'm currently figuring out what I like best so trying all sorts of programming. 
+
+I love to think of problems and see if I can solve them with some code but most of the time it leaves me with more bugs than solutions. 
+
+I'm always excited to learn more about programming and expand my knowledge to become better.
 <!--
 **jamescooper08/jamescooper08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
