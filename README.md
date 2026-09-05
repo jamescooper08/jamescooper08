@@ -10,7 +10,7 @@ I'm always excited to learn more about programming and expand my knowledge to be
 
 # Current Projects
 
-• Online Catan version
+• Online Catan replica
 <!--
 **jamescooper08/jamescooper08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
